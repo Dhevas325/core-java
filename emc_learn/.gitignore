@@ -1,0 +1,7 @@
+# Eclipse compiled output
+bin/
+
+# Eclipse project files (optional - uncomment if you want to exclude)
+# .classpath
+# .project
+# .settings/

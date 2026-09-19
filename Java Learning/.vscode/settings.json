@@ -1,0 +1,4 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": ["functions", "functions/fuctions with parameters", "lib", ".", "return keyword", "method_overloading", "for_each_loop"]
+}
